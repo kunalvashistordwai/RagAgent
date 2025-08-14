@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+llama-index-core
+llama-index-experimental
+llama-index==0.13.0
+pypdf
+numpy
+openai
+
