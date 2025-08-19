@@ -1,1 +1,4 @@
 This is Kunal Vashist's first agent.
+I am learning AI.
+To update metadata using the API, follow these steps: 1. Authenticate with the API using your credentials. 2. Use the appropriate endpoint for metadata updates. 3. Send a PUT or POST request with the updated metadata in the request body. 4. Ensure the request is formatted correctly, typically in JSON. 5. Check the API response for confirmation of the update.
+Endpoint of metadata for update
